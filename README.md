@@ -1,22 +1,24 @@
-# 💫 About Me:
-I'm looking for postision as Buisness Analyst, Data Analyst, Data Scientist, SQL Developer<br>I'm intrested in Data Analys, Machine Learning, Dashboards and optimazing workflows, <br>
+# 👨‍🎓O mnie:
+- 🎓 **Wyszktałcenie**:  Jestem studentem V roku studiów na kierunku [Zarządzanie Informacja](https://sylabus.uj.edu.pl/pl/8/1/3/9/130) na Uniwersytecie Jagiellońskim oraz słuchaczem studiów podyplomowych na kierunku [Analiza Danych - Data Science](https://sylabusy.agh.edu.pl/pl/1/2/22/1/6/63/173#nav-tab-info) na Akademii Górniczo-Hutniczej
+- 💼 **Specjalizacja:** Jestem zainteresowany rozwojem na stanowiskach w zakresie: **Business Analyst, Data Analyst, Data Scientist, IT Analyst oraz SQL Developer**.
+- 🔬 **Zainteresowania branżowe:** Analiza danych, Data Science, Information Science, Dashboards & BI oraz analityka biznesowa.
 
-- 🎓 **Education:** Master's degree in Information Management (*Zarządzanie Informacją*), currently pursuing postgraduate studies in Data Analysis and Data Science at AGH University of Krakow.
-- 💼 **Professional Focus:** Looking for opportunities as a **Business Analyst, Data Analyst, Data Scientist, or SQL Developer**.
-- 🔬 **Interests:** Data Analysis, Machine Learning, Dashboards & BI, and workflow optimization.
+Poza analityką jestem aktywnym Instruktorem Związku Harcerstwa Polskiego (za niedługo w stopniu podharcmistrza) oraz analitykiem danych w Harcerskim Instytucie Badawczym działającym przy tej organizacji na szczeblu ogólnokrajowym. <br>Do moich Hobby należy również bieganie (przede wszystkim biegi górskie) oraz szeroko pojęta produkcja muzyki, szczególnie jazzowej. Oprócz tego jestem ogromnym fanem gier planszowych oraz typu LARP czy RPG.
 
-### Beyond Code
-
-Outside of tech, I am an active scouting instructor (*podharcmistrz* in ZHP) and a researcher at the Scouting Research Institute, focusing on leadership training and educational methodologies. I'm also an avid long-distance runner (marathon finisher) and an enthusiast of outdoor hiking, tactical history, and role-playing games.
-
+### Kontakt
 ---
-📫 **How to reach me:** piotrekmachynski@gmail.com
-## CV
-[📄 Click here to download my CV](./Data_Scientist_&_Analyst_Intern_Piotr_Machyński.pdf)
+🔗linkedin: [Piotr Machyński](https://www.linkedin.com/in/piotr-machy%C5%84ski-8706aa27b/ "Piotr Machyński")<br>
+✉️E-mail: piotrekmachynski@gmail.com
 
-# 💻 Tech Stack:
+# Portfolio
+-[Otomoto Cracow Market Analysis & Car Price Prediction ](http://https://github.com/Maxik121/Otomoto-Data-Analysis "Otomoto Cracow Market Analysis & Car Price Prediction ")<br>
+-[E-commerce Marketing Performance Dashboard in Looker Studio](https://github.com/Maxik121/Marketing-Analytics-Portfolio-Project)<br>
+-[Automatyzacja Analizy Konspektów Harcerskich](http://https://github.com/Maxik121/Automatyzacja-Analizy-Konspekt-w-Harcerskich "Automatyzacja Analizy Konspektów Harcerskich")<br>
+-[Villa-Olimpica](https://github.com/Maxik121/Villa-Olimpica "Villa-Olimpica")<br>
+-[EDA Kultury Informacynej- Symulacja](http://https://github.com/Maxik121/Information-Culture-EDA "EDA Kultury Informacynej- Symulacja")<br>
+# 💻 Technologia
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-# 📊 GitHub Stats:
+# 📊 Aktywność Githbub:
 ![](https://streak-stats.demolab.com/?user=Maxik121&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Maxik121&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
